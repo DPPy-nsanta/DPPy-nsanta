@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 number = int(input())
 if number == 0:
-    print("this number is equal to zero.")
+    print("This number is equal to zero.")
 else:
-    print("this number is different from zero.")
+    print("This number is different from zero.")
